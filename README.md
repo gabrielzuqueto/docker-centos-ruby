@@ -24,3 +24,7 @@ cd docker-centos-ruby
 
 docker build -t docker-centos-ruby .
 ```
+
+## License ##
+
+See [LICENSE](LICENSE).
